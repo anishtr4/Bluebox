@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.krapps.BtTimer"
+    id        = "com.app.Bluebox"
     version   = "0.1.0">
 
-<name>BtTimer</name>
+<name>BlueBox</name>
 
 <description>
-Speech Timer with Bluetooth gateway
+Bluebox: conroll everything with bluebox
 </description>
 
 <author href="https://geeknirvana.org" email="u.k.k.rodrigo@gmail.com">
